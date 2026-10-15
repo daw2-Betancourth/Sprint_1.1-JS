@@ -1,0 +1,4 @@
+[
+  { "id": 1, "codi": "PROJ-001", "nom": "Web Sostenible", "descripcio": "Disseny d'una web sobre sostenibilitat.", "created_by": 1 },
+  { "id": 2, "codi": "PROJ-002", "nom": "App Inventari", "descripcio": "Aplicació per gestionar inventari de l'aula.", "created_by": 2 }
+]

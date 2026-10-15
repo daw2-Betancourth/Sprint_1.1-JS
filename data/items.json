@@ -1,0 +1,5 @@
+[
+  { "id": 1, "codi": "ITEM-01", "nom": "Disseny", "descripcio": "Qualitat del disseny i usabilitat." },
+  { "id": 2, "codi": "ITEM-02", "nom": "Codi", "descripcio": "Qualitat i organització del codi." },
+  { "id": 3, "codi": "ITEM-03", "nom": "Presentació", "descripcio": "Exposició oral del projecte." }
+]

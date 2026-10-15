@@ -1,0 +1,7 @@
+[
+  { "id": 1, "project_id": 1, "alumne_id": 4, "item_id": 1, "professor_id": 2, "nota": 8.0 },
+  { "id": 2, "project_id": 1, "alumne_id": 4, "item_id": 1, "professor_id": 3, "nota": 6.0 },
+  { "id": 3, "project_id": 1, "alumne_id": 4, "item_id": 2, "professor_id": 2, "nota": 7.5 },
+  { "id": 4, "project_id": 1, "alumne_id": 5, "item_id": 1, "professor_id": 2, "nota": 9.0 },
+  { "id": 5, "project_id": 2, "alumne_id": 5, "item_id": 2, "professor_id": 2, "nota": 5.5 }
+]

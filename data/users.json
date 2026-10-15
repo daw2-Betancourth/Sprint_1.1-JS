@@ -1,0 +1,8 @@
+[
+  { "id": 1, "username": "admin", "password": "admin123", "role": "admin", "nom": "Administradora" },
+  { "id": 2, "username": "prof1", "password": "prof123", "role": "professor", "nom": "Joan Professor" },
+  { "id": 3, "username": "prof2", "password": "prof123", "role": "professor", "nom": "Maria Professora" },
+  { "id": 4, "username": "alum1", "password": "alum123", "role": "alumne", "nom": "Pau Alumne" },
+  { "id": 5, "username": "alum2", "password": "alum123", "role": "alumne", "nom": "Laia Alumna" },
+  { "id": 6, "username": "alum3", "password": "alum123", "role": "alumne", "nom": "Nil Alumne" }
+]

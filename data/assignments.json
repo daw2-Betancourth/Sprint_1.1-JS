@@ -1,0 +1,19 @@
+{
+  "professors": [
+    { "project_id": 1, "professor_id": 2 },
+    { "project_id": 1, "professor_id": 3 },
+    { "project_id": 2, "professor_id": 2 }
+  ],
+  "alumnes": [
+    { "project_id": 1, "alumne_id": 4 },
+    { "project_id": 1, "alumne_id": 5 },
+    { "project_id": 2, "alumne_id": 5 },
+    { "project_id": 2, "alumne_id": 6 }
+  ],
+  "items": [
+    { "project_id": 1, "item_id": 1 },
+    { "project_id": 1, "item_id": 2 },
+    { "project_id": 2, "item_id": 2 },
+    { "project_id": 2, "item_id": 3 }
+  ]
+}
